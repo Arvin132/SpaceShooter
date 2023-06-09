@@ -1,2 +1,5 @@
 # SpaceShooter
-This is a very basic game i built while trying to learn the unity. pls don't judge :)
+
+the build folder has an executable for windows.
+
+for other platform open the src folder with the unity editor and run the project.
